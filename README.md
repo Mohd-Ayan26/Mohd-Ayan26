@@ -2,7 +2,7 @@
 # 💫 Hi 👋, I'm Mohammad Ayan Siddiqui
 **A Passionate Full Stack Developer | AI Enthusiast | B.Tech CSE Student from India**
 
-
+<img align="center" alt="developer" width="700" height="400" src="https://raw.githubusercontent.com/Mohd-Ayan26/Mohd-Ayan26/main/banner.jpg" />
 
 Email Me 👉 ✉️ **ayansiddiquiktmo@gmail.com** for Collaboration/Projects or Anything Tech! 🚀  
 
