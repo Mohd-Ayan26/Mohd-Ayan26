@@ -19,7 +19,7 @@ Email Me 👉 ✉️ **ayansiddiquiktmo@gmail.com** for Collaboration/Projects o
 
 ## 🔗 I Build & Create Things. 😊😊  
 
-Stay updated with my latest projects and ideas by following me on LinkedIn, GitHub, and YouTube.  
+Stay updated with my latest projects and ideas by following me on LinkedIn and GitHub.  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad%20Ayan%20Siddiqui-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohd-ayan-siddiqui)
 [![GitHub](https://img.shields.io/badge/GitHub-Mohd--Ayan26-black?logo=github&logoColor=white)](https://github.com/Mohd-Ayan26)
